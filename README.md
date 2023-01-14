@@ -1,5 +1,150 @@
 # GitHub Docs <!-- omit in toc --> 
- 
+ # proposalism travk development bulider mountain west java 
+ Langsung ke isi
+
+Daftar Informasi
+
+Artikel Pengetahuan Umum Terlengkap
+
+ Menu
+
+Home » Geografi » 27+ Kabupaten/Kota di Jawa Barat Beserta Ibukota dan Luas Wilayahnya
+
+27+ Kabupaten/Kota di Jawa Barat Beserta Ibukota dan Luas Wilayahnya
+
+23 Juni 2020 Oleh Anita
+
+Daftar Kabupaten/Kota di Jawa Barat – Jawa Barat atau disingkat Jabar, merupakan salah satu provinsi yang ada di pulau Jawa, Indonesia dan ibukotanya ada di kota Bandung. Jumlah kabupaten di Jawa Barat adalah 18 dan jumlah kota di Jawa Barat adalah 9. Jika ditotalkan, maka secara keseluruhan provinsi Jawa Barat memiliki 27 kabupaten dan kota.
+
+Secara geografis, provinsi Jawa Barat terletak di 5°50’ hingga 7°50’ LS serta 104°48’ hingga 108°48’ BT. Wilayah provinsi Jawa Barat berbatasan dengan Laut Jawa di sebelah utara, dengan provinsi Jawa Tengah di sebelah timur, dengan Samudera Hindia di sebelah selatan, serta dengan Banten dan DKI Jakarta di sebelah barat.
+
+Provinsi Jawa Barat yang memiliki luas wilayah 35.377,76 km persegi. Provinsi ini merupakan provinsi di Indonesia dengan jumlah penduduk terbanyak. Jumlah penduduk provinsi Jawa Barat diperkirakan sebanyak 43 juta jiwa, meliputi  penduduk di daerah perkotaan sebanyak 65,69% dan di daerah perdesaan sebanyak 34,31%.
+
+Secara administratif, terdapat 27 kabupaten dan kota di provinsi Jawa Barat. Berikut ini akan dibagikan tabel daftar nama-nama kabupaten/kota di Jawa Barat lengkap beserta ibu kota (pusat pemerintahan) dan luas wilayahnya.
+
+(baca juga kabupaten/kota di Jawa Timur)
+
+Daftar 27 Nama Kabupaten/Kota di Jawa Barat Beserta Luas Wilayahnya
+
+Daftar Kabupaten/Kota di Jawa Barat
+
+No.	Kabupaten/kota	Pusat Pemerintahan
+
+Luas Wilayah
+
+1	Kabupaten Bandung	Soreang	1.767,96 km²
+
+2	Kabupaten Bandung Barat	Ngamprah	1.305,77 km²
+
+3	Kabupaten Bekasi	Cikarang	1.224,88 km²
+
+4	Kabupaten Bogor	Cibinong	2.710,62 km²
+
+5	Kabupaten Ciamis	Ciamis	1.414,71 km²
+
+6	Kabupaten Cianjur	Cianjur	3.840,16 km²
+
+7	Kabupaten Cirebon	Sumber	984,52 km²
+
+8	Kabupaten Garut	Tarogong Kidul	3.074,07 km²
+
+9	Kabupaten Indramayu	Indramayu	2.040,11 km²
+
+10	Kabupaten Karawang	Karawang	1.652,20 km²
+
+11	Kabupaten Kuningan	Kuningan	1.110,56 km²
+
+12	Kabupaten Majalengka	Majalengka	1.204,24 km²
+
+13	Kabupaten Pangandaran	Parigi	1.010,00 km²
+
+14	Kabupaten Purwakarta	Purwakarta	825,74 km²
+
+15	Kabupaten Subang	Subang	1.893,95 km²
+
+16	Kabupaten Sukabumi	Palabuhanratu	4.145,70 km²
+
+17	Kabupaten Sumedang	Sumedang	1.518,33 km²
+
+18	Kabupaten Tasikmalaya	Singaparna	2.551,19 km²
+
+19	Kota Bandung	Bandung	167,67 km²
+
+20	Kota Banjar	Banjar	113,49 km²
+
+21	Kota Bekasi	Bekasi	206,61 km²
+
+22	Kota Bogor	Bogor	118,50 km²
+
+23	Kota Cimahi	Cimahi	39,27 km²
+
+24	Kota Cirebon	Cirebon	37,36 km²
+
+25	Kota Depok	Depok	200,29 km²
+
+26	Kota Sukabumi	Sukabumi	48,25 km²
+
+27	Kota Tasikmalaya	Tasikmalaya	171,61 km²
+
+Itulah informasi mengenai daftar nama kabupaten/kota di Jawa Barat lengkap beserta pusat pemerintahan dan luas wilayahnya. Semoga data di atas bisa menambah wawsan ilmu pengetahuan kita semua tentang jumlah kabupaten dan kota di provinsi Jawa Barat.
+
+Bagikan :
+
+Facebook Tweet Whatsapp
+
+KategoriGeografi
+
+Navigasi Tulisan
+
+10+ Merk Susu Penambah Berat Badan Anak yang Bagus dan Ampuh
+
+Tugas Kepala Desa Beserta Wewenang, Larangan, Hak dan Kewajiban
+
+Tinggalkan komentar
+
+Komentar
+
+Nama
+
+Nama *
+
+Surel
+
+Surel *
+
+Situs web
+
+Situs web
+
+Artikel Terbaru
+
+Dasar Hukum Otonomi Daerah di Indonesia (Isi Pasal dan Penjelasannya)
+
+Daftar Mobil Pick Up Bekas dengan Harga 15 Juta – 20 Jutaan [Terbaru]
+
+10+ Tambang Emas Terbesar di Dunia Beserta Lokasi dan Produksinya
+
+Tugas Kementerian Keuangan Republik Indonesia dan Fungsinya
+
+14+ Contoh Negara Maju di Benua Asia Beserta Keterangannya
+
+Artikel Pilihan
+
+Tugas dan Wewenang Pemerintah Pusat Menurut UU No 32 Tahun 2004
+
+Tujuan Hukum Secara Umum Menurut Para Ahli dan Penjelasannya
+
+20+ Kota Terbesar di Indonesia Menurut Luas Wilayahnya [Lengkap]
+
+Macam-Macam Warna Biru Beserta Nama dan Contoh Gambarnya [Lengkap]
+
+Daftar 10 Negara Termiskin di Asia dan Pendapatan Per Kapitanya
+
+AboutContactSitemapDisclaimerPrivacy Policy
+
+Copyright © 2018 Daftar Informasi All Rights Reserved.
+
+Gulirkan kembali ke puncak laman
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
 GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
